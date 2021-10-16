@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f29234b6-6735-446d-b875-e86363350be2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/LargestIslandFinder.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mnJ1iEog3jPOADkXaKI1kgWs0M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f29234b6-6735-446d-b875-e86363350be2" name="Default Changelist" comment="" />
+      <created>1610123221693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610123221693</updated>
+      <workItem from="1610123283081" duration="119000" />
+      <workItem from="1610123691534" duration="4081000" />
+      <workItem from="1610139540381" duration="7999000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="72" y="47" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610139481690">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="72" y="47" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1234.783@0.0.1234.783" timestamp="1610139481690" />
+    <state x="274" y="177" key="run.anything.popup" timestamp="1610139210101">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="274" y="177" key="run.anything.popup/0.0.1234.783@0.0.1234.783" timestamp="1610139210101" />
+  </component>
+</project>
